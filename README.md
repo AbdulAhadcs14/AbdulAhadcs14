@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine learning algorithims**
 
-- 👨‍💻 All of my projects are on: [Abdulahadcs14.com](Abdulahadcs14.com)
-
 - 💬 Ask me about **Games,ML,AI,Blockchain**
 
 - ⚡ Fun fact **i have a knack for solving complex problems**
