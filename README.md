@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Games,ML,AI,Blockchain**
 
-- 📫 How to reach me **Abdulahadcs14@gmai.com**
-
 - ⚡ Fun fact **i have a knack for solving complex problems**
 
 <h3 align="left">Connect with me:</h3>
